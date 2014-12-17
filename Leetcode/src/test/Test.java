@@ -6,7 +6,7 @@
  * @author  Neal LONG
  * @version  
  *
-*/
+ */
 /**
  * 
  */
@@ -15,8 +15,8 @@ package test;
 
 /**
  * @author Neal
- *
+ * 
  */
 public class Test {
-
+	int a = 10;
 }
